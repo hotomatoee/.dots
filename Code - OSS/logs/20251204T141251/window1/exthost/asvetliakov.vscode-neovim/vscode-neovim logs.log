@@ -1,0 +1,18 @@
+2025-12-04 14:12:53.333 [info] MainController: Starting nvim: /usr/sbin/nvim -N --embed --cmd source /home/shrek/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.24-universal/runtime/vscode-neovim.vim
+2025-12-04 14:12:53.368 [info] MainController: Nvim info: {
+  nvimVersion: {
+    api_compatible: 0,
+    major: 0,
+    minor: 11,
+    patch: 5,
+    prerelease: false,
+    build: 'v0.11.5',
+    api_level: 13,
+    api_prerelease: false
+  },
+  logFile: '/home/shrek/.local/state/nvim/log',
+  configDir: '/home/shrek/.config/nvim'
+}
+2025-12-04 14:32:07.327 [info] MessagesManager: 'E464: Ambiguous use of user-defined command\n'
+2025-12-04 14:52:54.141 [info] MessagesManager: '/pattern             \n'
+2025-12-04 14:52:54.141 [info] MessagesManager: '/pattern             \nE486: Pattern not found: pattern\n'

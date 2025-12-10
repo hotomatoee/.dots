@@ -1,0 +1,23 @@
+# Positioning
+anchor=top-left
+margin=0
+width=2544
+height=12
+
+# Appearance (Gruvbox Dark Hard variant)
+background-color=#689d6a
+text-color=#0f1010
+font=UbuntuMono Nerd Font, monospace, 11px
+icons=false
+border-radius=0
+border-size=0
+padding=2,6
+
+# Behavior
+default-timeout=5000
+max-visible=1
+ignore-timeout=0
+
+# Layout (title left, details right with extra spacing)
+format=<b>%s</b>                                                  %b
+

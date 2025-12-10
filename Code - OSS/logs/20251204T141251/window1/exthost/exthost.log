@@ -1,0 +1,18 @@
+2025-12-04 14:12:52.960 [info] Extension host with pid 19117 started
+2025-12-04 14:12:52.960 [info] Skipping acquiring lock for /home/shrek/.config/Code - OSS/User/workspaceStorage/94f332948bdacffab5ae317842bd78d1.
+2025-12-04 14:12:53.005 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-04 14:12:53.029 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-04 14:12:53.066 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-04 14:12:53.080 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-04 14:12:53.119 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-04 14:12:53.190 [info] Eager extensions activated
+2025-12-04 14:12:53.216 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-04 14:12:53.219 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-04 14:12:53.235 [info] Extension host with pid 19176 started
+2025-12-04 14:12:53.235 [info] Skipping acquiring lock for /home/shrek/.config/Code - OSS/User/workspaceStorage/94f332948bdacffab5ae317842bd78d1.
+2025-12-04 14:12:53.240 [info] Eager extensions activated
+2025-12-04 14:12:53.241 [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: false, activationEvent: 'onStartupFinished'
+2025-12-04 15:08:14.719 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-04 15:08:14.723 [info] Extension host with pid 19176 exiting with code 0
+2025-12-04 15:08:14.726 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-04 15:08:14.729 [info] Extension host with pid 19117 exiting with code 0

@@ -1,0 +1,20 @@
+{
+  "layer": "top",
+  "position": "left",
+  "width": 18,
+  "spacing": 0,
+  
+  "modules-left": ["clock"],
+  "modules-center": [],
+  "modules-right": ["hyprland/workspaces"],
+
+  "clock": {
+    "format": "{:%H\n%M}",
+    "interval": 60
+  },
+
+  "hyprland/workspaces": {
+    "format": "{id}",
+    "on-click": "activate"
+  }
+}

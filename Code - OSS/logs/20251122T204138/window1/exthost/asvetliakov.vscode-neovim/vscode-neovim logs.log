@@ -1,0 +1,18 @@
+2025-11-22 20:41:40.305 [info] MainController: Starting nvim: /usr/sbin/nvim -N --embed --cmd source /home/shrek/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.24-universal/runtime/vscode-neovim.vim
+2025-11-22 20:41:40.338 [info] MainController: Nvim info: {
+  nvimVersion: {
+    patch: 5,
+    prerelease: false,
+    build: 'v0.11.5',
+    api_level: 13,
+    api_prerelease: false,
+    api_compatible: 0,
+    major: 0,
+    minor: 11
+  },
+  logFile: '/home/shrek/.local/state/nvim/log',
+  configDir: '/home/shrek/.config/nvim'
+}
+2025-11-22 20:46:20.849 [info] MessagesManager: '--No lines in buffer--\n'
+2025-11-22 20:59:57.038 [info] MessagesManager: '--No lines in buffer--\n'
+2025-11-22 21:12:37.426 [info] MessagesManager: '--No lines in buffer--\n'

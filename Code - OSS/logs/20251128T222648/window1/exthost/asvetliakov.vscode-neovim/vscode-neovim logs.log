@@ -1,0 +1,62 @@
+2025-11-28 22:26:49.389 [info] MainController: Starting nvim: /usr/sbin/nvim -N --embed --cmd source /home/shrek/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.24-universal/runtime/vscode-neovim.vim
+2025-11-28 22:26:49.411 [info] MainController: Nvim info: {
+  logFile: '/home/shrek/.local/state/nvim/log',
+  configDir: '/home/shrek/.config/nvim',
+  nvimVersion: {
+    minor: 11,
+    api_level: 13,
+    build: 'v0.11.5',
+    api_compatible: 0,
+    patch: 5,
+    prerelease: false,
+    api_prerelease: false,
+    major: 0
+  }
+}
+2025-11-28 22:43:02.236 [info] MessagesManager: '--No lines in buffer--\n'
+2025-11-28 23:00:19.451 [info] MessagesManager: '1: /home/shrek/Programming/Practice/practice.py\n' +
+  '2: /home/shrek/nvim/motions\n' +
+  '3: /home/shrek/Programming/Practice/guessinggame.py\n' +
+  '4: /home/shrek/.config/environment.d/01-cursor.conf\n' +
+  '5: /home/shrek/.Xresources\n' +
+  '6: /home/shrek/.config/hypr/hyprland.conf\n' +
+  '7: /home/shrek/.config/hyprland/hypr\n' +
+  '8: /home/shrek/.config/waybar/style.css\n' +
+  '9: /home/shrek/.config/waybar\n' +
+  '10: /home/shrek/.config/mako/config\n' +
+  '11: /home/shrek/.config/hypr/bemenu-gruvbox.sh\n' +
+  '12: /home/shrek/.config/qutebrowser/config.py\n' +
+  '13: /home/shrek/qutebrowser/config.py\n' +
+  '14: /home/shrek/.config/qutebrowser/gruvbox.py\n' +
+  '15: /home/shrek/temp/GhostByterBot/start.sh\n' +
+  '16: /home/shrek/temp/GhostByterBot/requirements.txt\n' +
+  '17: /home/shrek/temp/GhostByterBot/bot.py\n' +
+  '18: /home/shrek/Downloads\n' +
+  '19: /home/shrek/.config/kitty/kitty.conf\n' +
+  '20: /home/shrek/kitty.conf\n' +
+  '21: /home/shrek/.config/qutebrowser\n' +
+  '22: /home/shrek/.config/qutebrowser/autoconfig.yml\n' +
+  '23: /home/shrek/.config/fuzzel/fuzzel.ini\n' +
+  '24: /home/shrek/.config/waybar/config\n' +
+  '25: /home/shrek/.config/tofi/config.toml\n' +
+  '26: /home/shrek/.config/fuzzel/config\n' +
+  '27: /home/shrek/.bot/bot.py\n' +
+  '28: /home/shrek/bot/bot.py\n' +
+  '29: /home/shrek/test.py\n' +
+  '30: /home/shrek/test_x.py\n' +
+  '31: /home/shrek/test_discord.py\n' +
+  '32: /home/shrek/.config/hyprpaper/hyprpaper.conf\n' +
+  '33: /home/shrek/.config/mako/confi\n' +
+  '34: /home/shrek/.config/rofi/config.rasi\n' +
+  '35: /home/shrek/.config/bemenu/config\n' +
+  '36: /home/shrek/.config/wofi/config\n' +
+  '37: /home/shrek/.local/share/applications/spotify.desktop\n' +
+  '38: /home/shrek/.local/share/applications/qutebrowser.desktop\n' +
+  '39: /home/shrek/.config/tofi/config\n' +
+  '40: /usr/share/nvim/runtime/doc/help.txt\n' +
+  '41: /home/shrek/.config/kitty/config\n' +
+  '42: /home/shrek/.icons/default/index.theme\n' +
+  '43: /home/shrek/.config/spicetify/config-xpui.ini\n' +
+  '44: /home/shrek/n\n'
+2025-11-28 23:14:12.431 [info] MessagesManager: '--No lines in buffer--\n'
+2025-11-28 23:22:39.373 [info] MessagesManager: '--No lines in buffer--\n'

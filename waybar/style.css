@@ -1,0 +1,46 @@
+* {
+  border: none;
+  border-radius: 0;
+  font-family: "UbuntuMono Nerd Font", monospace;
+  font-size: 11px;
+  min-height: 0;
+}
+
+window#waybar {
+  background: transparent;
+}
+
+#workspaces {
+  background: transparent;
+  margin: 0;
+  padding: 0;
+}
+
+#workspaces button {
+  padding: 0;
+  margin: 0;
+  color: #689d6a;           
+  background: transparent;   /* transparent background for inactive */
+  transition: all 0.1s ease;
+}
+
+#workspaces button:hover {
+  border-color: #689d6a;
+}
+
+#workspaces button.active {
+  color: #0f1010;           /* bg0_hard */
+  background: #689d6a;      /* dark aqua for active */
+}
+
+#workspaces button.urgent {
+  color: #0f1010;           /* bg0_hard */
+  background: #cc241d;      /* dark red */
+}
+
+#clock {
+  padding: 0;
+  color: #0f1010;           /* bg0_hard */
+  background: #689d6a;      /* dark aqua */
+}
+

@@ -1,0 +1,15 @@
+2025-11-26 11:02:04.896 [info] MainController: Starting nvim: /usr/sbin/nvim -N --embed --cmd source /home/shrek/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.18.24-universal/runtime/vscode-neovim.vim
+2025-11-26 11:02:04.931 [info] MainController: Nvim info: {
+  logFile: '/home/shrek/.local/state/nvim/log',
+  configDir: '/home/shrek/.config/nvim',
+  nvimVersion: {
+    patch: 5,
+    minor: 11,
+    build: 'v0.11.5',
+    api_prerelease: false,
+    prerelease: false,
+    api_level: 13,
+    major: 0,
+    api_compatible: 0
+  }
+}
