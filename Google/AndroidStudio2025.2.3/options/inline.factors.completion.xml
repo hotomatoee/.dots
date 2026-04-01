@@ -1,0 +1,48 @@
+<application>
+  <component name="AcceptanceRateFactors">
+    <selectionCounts>
+      <entry key="1" value="0.0" />
+      <entry key="24" value="0.0" />
+      <entry key="168" value="0.0" />
+    </selectionCounts>
+    <showUpCounts>
+      <entry key="1" value="0.0" />
+      <entry key="24" value="0.0" />
+      <entry key="168" value="0.0" />
+    </showUpCounts>
+  </component>
+  <component name="TimeBetweenTyping">
+    <dailyDataMap>
+      <entry key="2026-02-05">
+        <DailyData>
+          <option name="count" value="7" />
+          <option name="totalTime" value="10701" />
+        </DailyData>
+      </entry>
+      <entry key="2026-02-06">
+        <DailyData>
+          <option name="count" value="10" />
+          <option name="totalTime" value="10286" />
+        </DailyData>
+      </entry>
+      <entry key="2026-02-08">
+        <DailyData>
+          <option name="count" value="2665" />
+          <option name="totalTime" value="2201704" />
+        </DailyData>
+      </entry>
+      <entry key="2026-02-09">
+        <DailyData>
+          <option name="count" value="388" />
+          <option name="totalTime" value="318845" />
+        </DailyData>
+      </entry>
+      <entry key="2026-02-12">
+        <DailyData>
+          <option name="count" value="801" />
+          <option name="totalTime" value="660009" />
+        </DailyData>
+      </entry>
+    </dailyDataMap>
+  </component>
+</application>

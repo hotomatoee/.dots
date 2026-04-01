@@ -1,0 +1,747 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ESPs" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DesignSurfaceV2">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.7181942544459644" />
+      </map>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1lgyinxsww4af" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/esps/MainActivity.kt.kt" file-id="22771" managing-fs="1770318156355">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="66">
+                <caret line="13" selection-end-line="127" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"MainActivity.kt.kt","foregroundColor":-1320014,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,107,111,116,108,105,110,95,102,105,108,101,46,115,118,103,18,48,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,107,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-98,-111,-47,-25,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/build.gradle.kts" file-id="19542" managing-fs="1770318156355">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1056">
+              <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"build.gradle.kts (:app)","foregroundColor":-1320014,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-106,1,10,56,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,107,111,116,108,105,110,95,103,114,97,100,108,101,95,115,99,114,105,112,116,46,115,118,103,18,60,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,107,111,116,108,105,110,71,114,97,100,108,101,83,99,114,105,112,116,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-24,-65,-15,-112,2,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" file-id="289239" managing-fs="1770318156355">
+          <provider editor-type-id="android-designer2" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"activity_main.xml","foregroundColor":-1320014,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,66,10,17,102,105,108,101,84,121,112,101,115,47,120,109,108,46,115,118,103,18,23,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,120,109,108,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-33,-3,-24,-123,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" file-id="19875" managing-fs="1770318156355">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="418">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+              <folding>
+                <element signature="e#724#742#0" expanded="true" />
+                <element signature="e#997#1015#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"AndroidManifest.xml","foregroundColor":-1320014,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,83,10,45,115,116,117,100,105,111,47,105,99,111,110,115,47,115,104,101,108,108,47,102,105,108,101,116,114,101,101,47,109,97,110,105,102,101,115,116,45,102,105,108,101,46,115,118,103,26,21,111,114,103,46,106,101,116,98,114,97,105,110,115,46,97,110,100,114,111,105,100,40,-20,-95,-101,-73,-2,-1,-1,-1,-1,1,48,2]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Kotlin": {
+      "usageCount": 13,
+      "lastUsed": 1770419412200
+    },
+    "XML": {
+      "usageCount": 13,
+      "lastUsed": 1770419412195
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/shrek/AndroidStudioProjects/ESPs/app/build.gradle.kts&quot;,
+    &quot;/home/shrek/AndroidStudioProjects/ESPs/app/src/main/java/com/example/esps/MainActivity.kt&quot;,
+    &quot;/home/shrek/AndroidStudioProjects/ESPs/app/src/main/res/layout/activity_main.xml&quot;,
+    &quot;/home/shrek/AndroidStudioProjects/ESPs/app/src/main/java/com/example/esps/MainActivity.kt.kt&quot;,
+    &quot;/home/shrek/AndroidStudioProjects/ESPs/app/src/main/res/values/themes.xml&quot;,
+    &quot;/home/shrek/AndroidStudioProjects/ESPs/app/src/main/AndroidManifest.xml&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="XML">
+      <summary usageCount="13" lastUsage="1770419412195" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="13" lastUsage="1770419412200" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ESPs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ESPs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ESPs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ESPs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ESPs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ESPs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main/java/com/example/esps}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ESPs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main/res}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ESPs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main/res}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main/res/layout}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ESPs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main/res}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main/res/values}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="ESPs" />
+            <item name="ESPs" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="ESPs" />
+              <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gradle" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text=".gradle" />
+                <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/.gradle}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.kotlin" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".kotlin" />
+                <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/.kotlin}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/app" />
+                  </map>
+                </attributes>
+                <data iconPath="studio/icons/shell/filetree/android-module.svg" iconPlugin="org.jetbrains.android" isLeaf="false" text="app" />
+                <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/build" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="build" />
+                  <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/build}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/src" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                  <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/androidTest" />
+                      </map>
+                    </attributes>
+                    <data iconPath="studio/icons/shell/filetree/android-module.svg" iconPlugin="org.jetbrains.android" isLeaf="false" text="androidTest" />
+                    <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/androidTest}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/main" />
+                      </map>
+                    </attributes>
+                    <data iconPath="studio/icons/shell/filetree/android-module.svg" iconPlugin="org.jetbrains.android" isLeaf="false" text="main" />
+                    <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="java" />
+                      <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main/java}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/example/esps" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="com.example.esps" />
+                        <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main/java/com/example/esps}" type="462c0819:PsiDirectoryNode" />
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/example/esps/ui/theme" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="ui.theme" />
+                          <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main/java/com/example/esps/ui/theme}" type="462c0819:PsiDirectoryNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/example/esps/MainActivity.kt.kt" />
+                            </map>
+                          </attributes>
+                          <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="MainActivity.kt.kt" />
+                          <item name="MainActivity.kt.kt" type="24436e51:KtFileTreeNode" />
+                        </presentation>
+                      </presentation>
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/src/main/res" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="res" />
+                      <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main/res}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="drawable" />
+                        <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main/res/drawable}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/res/layout" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="layout" />
+                        <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main/res/layout}" type="462c0819:PsiDirectoryNode" />
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="activity_main.xml" />
+                          <item name="activity_main.xml" type="ab9368bb:PsiFileNode" />
+                        </presentation>
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="mipmap-anydpi" />
+                        <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main/res/mipmap-anydpi}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="mipmap-hdpi" />
+                        <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main/res/mipmap-hdpi}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="mipmap-mdpi" />
+                        <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main/res/mipmap-mdpi}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="mipmap-xhdpi" />
+                        <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main/res/mipmap-xhdpi}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="mipmap-xxhdpi" />
+                        <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main/res/mipmap-xxhdpi}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="mipmap-xxxhdpi" />
+                        <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main/res/mipmap-xxxhdpi}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/res/values" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="values" />
+                        <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main/res/values}" type="462c0819:PsiDirectoryNode" />
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="colors.xml" />
+                          <item name="colors.xml" type="ab9368bb:PsiFileNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="strings.xml" />
+                          <item name="strings.xml" type="ab9368bb:PsiFileNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/app/src/main/res/values/themes.xml" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="themes.xml" />
+                          <item name="themes.xml" type="ab9368bb:PsiFileNode" />
+                        </presentation>
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/res/xml" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="xml" />
+                        <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/main/res/xml}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+                        </map>
+                      </attributes>
+                      <data iconPath="studio/icons/shell/filetree/manifest-file.svg" iconPlugin="org.jetbrains.android" isLeaf="true" text="AndroidManifest.xml" />
+                      <item name="AndroidManifest.xml" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/test" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="test" />
+                    <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/app/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/.gitignore" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                  <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/build.gradle.kts" />
+                    </map>
+                  </attributes>
+                  <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlinGradleScript.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="build.gradle.kts" />
+                  <item name="build.gradle.kts" type="24436e51:KtFileTreeNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/proguard-rules.pro" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="proguard-rules.pro" />
+                  <item name="proguard-rules.pro" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/build" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="build" />
+                <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/build}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradle" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="gradle" />
+                <item name="dir{file:///home/shrek/AndroidStudioProjects/ESPs/gradle}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/build.gradle.kts" />
+                  </map>
+                </attributes>
+                <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlinGradleScript.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="build.gradle.kts" />
+                <item name="build.gradle.kts" type="24436e51:KtFileTreeNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradle.properties" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/properties.svg" iconPlugin="com.intellij" isLeaf="true" text="gradle.properties" />
+                <item name="gradle.properties" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradlew" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="gradlew" />
+                <item name="gradlew" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradlew.bat" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="gradlew.bat" />
+                <item name="gradlew.bat" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/local.properties" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/properties.svg" iconPlugin="com.intellij" isLeaf="true" text="local.properties" />
+                <item name="local.properties" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/settings.gradle.kts" />
+                  </map>
+                </attributes>
+                <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlinGradleScript.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="settings.gradle.kts" />
+                <item name="settings.gradle.kts" type="24436e51:KtFileTreeNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ESPs" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="ESPs" />
+            <item name="ESPs" type="1abcf292:AndroidViewProjectNode" />
+            <presentation>
+              <attributes />
+              <data iconPath="studio/icons/shell/filetree/android-module.svg" iconPlugin="org.jetbrains.android" isLeaf="false" text="app" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="manifests" />
+                <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="kotlin+java" />
+                <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="res" />
+                <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/gradle.svg" iconPlugin="com.intellij.gradle" isLeaf="false" text="Gradle Scripts" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Android App.app" />
+    </history>
+  </component>
+  <component name="SplittingTabsState">
+    <tool-windows>
+      <tool-window id="Logcat" selected-tab="0">
+        <tabs>
+          <tab name="Logcat">
+            <content>
+              <panel>{'formattingConfig':{'preset':'STANDARD'},'filter':'package:mine ','filterMatchCase':false,'isSoftWrap':false}</panel>
+            </content>
+          </tab>
+        </tabs>
+      </tool-window>
+    </tool-windows>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.7801894" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" weight="0.3297354" />
+      <window_info active="true" anchor="bottom" id="Logcat" order="4" visible="true" weight="0.3297354" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.3297354" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Layout Validation" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.550513" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.24980268" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.25" />
+      <window_info anchor="right" id="Running Devices" order="4" weight="0.25" />
+      <window_info anchor="right" id="StudioBot" order="5" weight="0.5907656" />
+      <window_info anchor="right" id="Assistant" order="6" />
+      <unified_weights bottom="0.3297354" left="0.7801894" right="0.550513" />
+    </layoutV2>
+    <recentWindows>
+      <value>Logcat</value>
+      <value>Project</value>
+      <value>Build</value>
+      <value>Notifications</value>
+      <value>StudioBot</value>
+      <value>Problems View</value>
+      <value>Gradle</value>
+      <value>Assistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="386" y="428" width="524" height="554" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1770319062236">
+      <screen x="18" y="0" width="2542" height="1440" />
+    </state>
+    <state x="386" y="428" width="524" height="554" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/18.0.2542.1440@18.0.2542.1440" timestamp="1770319062236" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/themes.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#724#742#0" expanded="true" />
+            <element signature="e#997#1015#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/esps/MainActivity.kt.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="66">
+            <caret line="13" selection-end-line="127" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

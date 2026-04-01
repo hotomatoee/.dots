@@ -1,0 +1,25 @@
+{
+	"windowstate": {
+		"isFullScreen": false,
+		"isMaximized": false,
+		"width": 1267,
+		"height": 1399,
+		"x": 8,
+		"y": 33,
+		"frame": true,
+		"screenLayout": "0:0:2560:1440",
+		"backgroundColor": "rgb(31, 39, 42)"
+	},
+	"workspaces": [
+		{
+			"x": 8,
+			"y": 33,
+			"width": 1267,
+			"height": 1399,
+			"isMaximized": false,
+			"isFullScreen": false,
+			"file": "/home/shrek/Arduino/practice/led.ino",
+			"time": 1772835937408
+		}
+	]
+}

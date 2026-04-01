@@ -1,46 +1,74 @@
 * {
-  border: none;
-  border-radius: 0;
+  /* Removed global border: none to allow border on the main bar */
+  border-radius: 4px; /* Matches decoration.rounding = 4 */
   font-family: "UbuntuMono Nerd Font", monospace;
   font-size: 11px;
   min-height: 0;
 }
 
 window#waybar {
-  background: transparent;
+  /* Matches your inactive_border color and inactive_opacity = 0.86 */
+  background: rgba(18, 18, 18, 0.86); 
+  
+  /* Adds a 1px border matching your col.active_border */
+  border: 1px solid #5a4a3f; 
+
+  /* INTERNAL PADDING: Increases the thickness at the bottom of the bar */
+  padding-bottom: 2px; 
 }
 
+/* Workspaces */
 #workspaces {
-  background: transparent;
-  margin: 0;
-  padding: 0;
+  margin: 4px 6px;
+  background: rgba(255, 255, 255, 0.02); /* Slight inset look */
+  border: 1px solid rgba(18, 18, 18, 0.5);
 }
 
 #workspaces button {
-  padding: 0;
+  padding: 2px 8px;
   margin: 0;
-  color: #689d6a;           
-  background: transparent;   /* transparent background for inactive */
-  transition: all 0.1s ease;
+  color: #a89984; /* Gruvbox muted gray/brown */
+  background: transparent;
+  transition: all 0.15s cubic-bezier(0.23, 1, 0.32, 1); /* Matches your easeOutQuint bezier */
+  border: none;
+  border-radius: 4px;
 }
 
 #workspaces button:hover {
-  border-color: #689d6a;
+  background: rgba(255, 255, 255, 0.05);
+  color: #ebdbb2; /* Gruvbox light text */
+  box-shadow: none;
 }
 
 #workspaces button.active {
-  color: #0f1010;           /* bg0_hard */
-  background: #689d6a;      /* dark aqua for active */
+  color: #ebdbb2;
+  /* Matches your Hyprland col.active_border perfectly */
+  background: #5a4a3f; 
 }
 
 #workspaces button.urgent {
-  color: #0f1010;           /* bg0_hard */
-  background: #cc241d;      /* dark red */
+  color: #121212;
+  /* Gruvbox dark red, fitting "Dark tones only" */
+  background: #9d0006; 
 }
 
 #clock {
-  padding: 0;
-  color: #0f1010;           /* bg0_hard */
-  background: #689d6a;      /* dark aqua */
+  margin: 4px 8px;
+  padding: 2px 10px;
+  color: #ebdbb2; /* Gruvbox light foreground */
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.05);
 }
 
+/* Add any other modules you use down here using the same base design */
+#battery,
+#pulseaudio,
+#network,
+#cpu,
+#memory {
+  margin: 4px 4px;
+  padding: 2px 10px;
+  color: #ebdbb2;
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 4px;
+}

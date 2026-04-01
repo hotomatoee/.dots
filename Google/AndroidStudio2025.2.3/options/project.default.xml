@@ -1,0 +1,20 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="NONE" />
+      </component>
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+      <component name="WindowStateProjectService">
+        <state x="793" y="355" key="SettingsEditor" timestamp="1770318373358">
+          <screen x="18" y="0" width="2542" height="1440" />
+        </state>
+        <state x="793" y="355" key="SettingsEditor/18.0.2542.1440" timestamp="1770318373358" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

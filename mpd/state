@@ -1,6 +1,8 @@
-sw_volume: 100
+sw_volume: 63
 audio_device_state:1:PipeWire Output
-state: stop
+state: pause
+current: 12
+time: 50.528
 random: 0
 repeat: 0
 single: 0
@@ -10,4 +12,34 @@ mixrampdb: 0
 mixrampdelay: -1
 lastloadedplaylist: 
 playlist_begin
+0:Donda (Deluxe) - Kanye West/02 - Kanye West - Hurricane.flac
+1:Donda (Deluxe) - Kanye West/03 - Kanye West - Moon.flac
+2:Donda (Deluxe) - Kanye West/04 - Kanye West - Life Of The Party.flac
+3:Donda (Deluxe) - Kanye West/05 - Kanye West - Off The Grid.flac
+4:Donda (Deluxe) - Kanye West/06 - Kanye West - Jail.flac
+5:Donda (Deluxe) - Kanye West/07 - Kanye West - Praise God.flac
+6:Donda (Deluxe) - Kanye West/08 - Kanye West - Come to Life.flac
+7:Donda (Deluxe) - Kanye West/09 - Kanye West - Believe What I Say.flac
+8:Donda (Deluxe) - Kanye West/10 - Kanye West - No Child Left Behind.flac
+9:Donda (Deluxe) - Kanye West/12 - Kanye West - Remote Control pt 2.flac
+10:Donda (Deluxe) - Kanye West/13 - Kanye West - God Breathed.flac
+11:Donda (Deluxe) - Kanye West/14 - Kanye West - Lord I Need You.flac
+12:Donda (Deluxe) - Kanye West/15 - Kanye West - 24.flac
+13:Donda (Deluxe) - Kanye West/16 - Kanye West - Junya.flac
+14:Donda (Deluxe) - Kanye West/17 - Kanye West - Never Abandon Your Family.flac
+15:Donda (Deluxe) - Kanye West/18 - Kanye West - Donda.flac
+16:Donda (Deluxe) - Kanye West/19 - Kanye West - Keep My Spirit Alive.flac
+17:Donda (Deluxe) - Kanye West/20 - Kanye West - Jesus Lord pt 2.flac
+18:Donda (Deluxe) - Kanye West/21 - Kanye West - Heaven and Hell.flac
+19:Donda (Deluxe) - Kanye West/22 - Kanye West - Remote Control.flac
+20:Donda (Deluxe) - Kanye West/23 - Kanye West - Tell The Vision.flac
+21:Donda (Deluxe) - Kanye West/24 - Kanye West - Jonah.flac
+22:Donda (Deluxe) - Kanye West/25 - Kanye West - Pure Souls.flac
+23:Donda (Deluxe) - Kanye West/26 - Kanye West - Ok Ok.flac
+24:Donda (Deluxe) - Kanye West/27 - Kanye West - New Again.flac
+25:Donda (Deluxe) - Kanye West/28 - Kanye West - Jesus Lord.flac
+26:Donda (Deluxe) - Kanye West/29 - Kanye West - Ok Ok pt 2.flac
+27:Donda (Deluxe) - Kanye West/30 - Kanye West - Junya pt 2.flac
+28:Donda (Deluxe) - Kanye West/31 - Kanye West - Jail pt 2.flac
+29:Donda (Deluxe) - Kanye West/32 - Kanye West - Keep My Spirit Alive pt 2.flac
 playlist_end

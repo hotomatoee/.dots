@@ -10,11 +10,16 @@ settings:
     global: true
   content.javascript.clipboard:
     https://chatgpt.com: access-paste
+    https://claude.ai: access-paste
+    https://docs.python.org: access-paste
     https://github.com: access-paste
     https://grok.com: access-paste
     https://monkeytype.com: access-paste
+    https://platform.openai.com: access-paste
+    https://wiki.hypr.land: access-paste
   content.notifications.enabled:
     https://mail.proton.me: true
+    https://nextcloud.lab: true
   content.register_protocol_handler:
     https://mail.google.com?extsrc=mailto&url=%25s: false
     https://mail.proton.me#mailto=%25s: true

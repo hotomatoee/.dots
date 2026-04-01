@@ -1,0 +1,14 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/ESPs" value="true" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/Hopefully" value="true" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/Investment" value="true" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/Investments" value="true" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/beginning" value="true" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/habitgrid" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

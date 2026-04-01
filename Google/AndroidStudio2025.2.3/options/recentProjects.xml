@@ -1,0 +1,106 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/ESPs">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ESPs – activity_main.xml [ESPs.app.main]" projectWorkspaceId="39GNa6zMIzbTyxOXpMZlwWczHhu">
+              <option name="activationTimestamp" value="1770419480265" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-252.28238.7.2523.14688667" />
+              <option name="buildTimestamp" value="1767949620000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="1291" y="2" width="1267" height="716" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1770318507966" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/habitgrid">
+          <value>
+            <RecentProjectMetaInfo frameTitle="habitgrid – widget.kt [habitgrid.app.main]" projectWorkspaceId="39JgEt5nPHEmqLZXmEVnLT1E7ne">
+              <option name="activationTimestamp" value="1770420946161" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-252.28238.7.2523.14688667" />
+              <option name="buildTimestamp" value="1767949620000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="1291" y="2" width="1267" height="716" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1770419478294" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Investment">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Investment – build.gradle.kts (Investment)" projectWorkspaceId="39JjD5yFMvHfO805Ui6qdTzSFH4">
+              <option name="activationTimestamp" value="1770421386217" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-252.28238.7.2523.14688667" />
+              <option name="buildTimestamp" value="1767949620000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="20" y="2" width="1267" height="1436" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1770420945030" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Investments">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Investments – MainActivity.kt [Investments.app.main]" projectWorkspaceId="39Jk6VuXB66K5QsPoIshlZP2WU7">
+              <option name="activationTimestamp" value="1770566599725" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-252.28238.7.2523.14688667" />
+              <option name="buildTimestamp" value="1767949620000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="20" y="2" width="1267" height="1436" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1770421385196" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Hopefully">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Hopefully – MainActivity.kt [Hopefully.app.main]" projectWorkspaceId="39OUQv8dYcBIDqVxDxwvTxOhuol">
+              <option name="activationTimestamp" value="1770566930955" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-252.28238.7.2523.14688667" />
+              <option name="buildTimestamp" value="1767949620000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="1291" y="2" width="1267" height="716" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1770566597883" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/beginning">
+          <value>
+            <RecentProjectMetaInfo frameTitle="beginning – MainActivity.kt [beginning.app.main]" opened="true" projectWorkspaceId="39OV6VtBCRNZ8ZSmPVCmSHETq5A">
+              <option name="activationTimestamp" value="1771708332808" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-252.28238.7.2523.14688667" />
+              <option name="buildTimestamp" value="1767949620000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="20" y="2" width="2538" height="1436" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1770566929030" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/AndroidStudioProjects/beginning" />
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>
